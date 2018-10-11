@@ -1,0 +1,6 @@
+[package]
+name = "orambi"
+version = "0.1.0"
+authors = ["therock"]
+
+[dependencies]
